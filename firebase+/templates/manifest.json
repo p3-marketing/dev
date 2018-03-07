@@ -1,0 +1,21 @@
+{
+  "short_name": "Restaurant App",
+  "name": "P3.MARKETING — Restaurant App",
+  "start_url": "home.amp.html",
+  "background_color": "#d00033",
+  "display": "standalone",
+  "theme_color": "#d00033",
+  "icons": [
+    {
+      "src": "launcher-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "launcher-198.png",
+      "type": "image/png",
+      "sizes": "198x198"
+    }
+  ],
+  "start_url": "home.amp.html"
+}

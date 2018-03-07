@@ -1,0 +1,9 @@
+
+function remove_empty_lines( $content )
+{
+$string = htmlentities($content, null, 'utf-8'); 
+$content = str_replace("&nbsp;", " ", $string); 
+$content = html_entity_decode($content); return $content;
+}
+add_filter('the_content', 'remove_empty_lines');
+

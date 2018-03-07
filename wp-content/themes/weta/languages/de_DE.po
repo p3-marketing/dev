@@ -1,0 +1,589 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weta v1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: Thu Oct 08 2015 00:04:13 GMT+1300 (NZDT)\n"
+"Last-Translator: Ellen Bauer <ellen.bauer@elmastudio.de>\n"
+"Language-Team: \n"
+"Language: German\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: de_DE"
+
+msgid "%1$s"
+msgstr "%1$s"
+
+msgid "(%d)"
+msgstr "(%d)"
+
+msgid ""
+"(Activate to use custom Weta share buttons in the Jetpack sharing feature "
+"(\"Icons only\" has to be selected)."
+msgstr ""
+"(Aktiviere diese Option, um Jetpack Teilen-Buttons im Theme-Design zu nutzen "
+"(\"Icons only\" muss in den Jetpack Teilen-Optionen ausgewählt sein)."
+
+msgid "(Show \"Read More\" links on Front page.)"
+msgstr "(Zeige einen Weiterlesen-Link bei Beiträgen auf der Weta Startseite.)"
+
+msgid "(Show automatic excerpts on archives and search results.)"
+msgstr "(Zeige automatisch gekürzte Beitragstexte im Archiv und bei Suchergebnissen.)"
+
+msgid "(Show automatic excerpts on default blog.)"
+msgstr "(Zeige automatisch gekürzte Beitragstexte auf Blogseiten.)"
+
+msgid "(use only, if WooCommerce plugin is active)"
+msgstr "(nur nutzen, wenn das WooCommerce Plugin aktiviert ist)"
+
+msgid "(visible on wider screens only)"
+msgstr "(nur auf breiten Bildschirmen sichtbar)"
+
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Kommentare"
+msgstr[1] "%1$s Kommentare"
+
+msgid "1-column text overlay"
+msgstr "1-spaltig mit Text Overlay"
+
+msgid "1-column text right"
+msgstr "1-spaltig Text rechts "
+
+msgid "2-columns"
+msgstr "2-spaltig"
+
+msgid "2-columns text right"
+msgstr "2-spaltig Text rechts"
+
+msgid "3-columns"
+msgstr "3-spaltig"
+
+msgid "3-columns text right"
+msgstr "3-spaltig Text rechts"
+
+msgid "4-columns"
+msgstr "4-spaltig"
+
+msgid "4-columns text right"
+msgstr "4-spaltig Text rechts"
+
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">Nächster Artikel</span>%title"
+
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">Vorheriger Artikel</span>%title"
+
+msgid "<span>Next Posts</span>"
+msgstr "<span>Nächste Artikel</span>"
+
+msgid "<span>Previous Posts</span>"
+msgstr "<span>Vorherige Artikel</span>"
+
+msgid "A list of blog authors with gravatars."
+msgstr "Zeige eine Liste von Blog-Autoren mit Gravatarbild."
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "All Posts by"
+msgstr "Alle Beiträge von"
+
+msgid "All posts by "
+msgstr "Alle Artikel von "
+
+msgid "All posts by %s"
+msgstr "Alle Artikel von %s"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Author Widget Background Color"
+msgstr "Autoren Widget Hintergrund Farbe"
+
+msgid "Automatic archive excerpts"
+msgstr "automatische Archiv-Exzerpte"
+
+msgid "Automatic blog excerpts"
+msgstr "automatische Blog-Exzerpte"
+
+msgid "Blog - Sidebar"
+msgstr "Blog - Sidebar"
+
+msgid "Blog Subscribe Widget Area"
+msgstr "Blog Subscribe Widgetbereich"
+
+msgid "Cart (%d)"
+msgstr "Warenkorb (%d)"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Comment 1"
+msgstr "Kommentar 1"
+
+msgid "Comments %"
+msgstr "Kommentare %"
+
+msgid "Comments 0"
+msgstr "Kommentare 0"
+
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+msgid "Customize the footer credit text. (HTML is allowed)"
+msgstr "Passe den Footer Credittext an (HTML ist erlaubt)."
+
+msgid "Customize the lightbox button text (default text is \"Subscribe Now\")."
+msgstr "(Passe den Text des Lightbox-Buttons an (standardmäßig \"Jetzt anmelden\")."
+
+msgid "Customize the lightbox close button text (default text is \"No Thanks\")."
+msgstr "Passe den Text \"Nein Danke\" in der Lightbox an."
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Edit page"
+msgstr " Seite bearbeiten"
+
+msgid "Filed under "
+msgstr "Kategorie "
+
+msgid "Fixed-position main menu"
+msgstr "Hauptmenü feststehend"
+
+msgid "Footer - 1"
+msgstr "Footer - 1"
+
+msgid "Footer - 2"
+msgstr "Footer - 2"
+
+msgid "Footer - 3"
+msgstr "Footer - 3"
+
+msgid "Footer - 4"
+msgstr "Footer - 4"
+
+msgid "Footer - 5"
+msgstr "Footer - 5"
+
+msgid "Footer Background Color"
+msgstr "Footer Hintergrund Farbe"
+
+msgid "Footer Social menu"
+msgstr "Footer Social Menü"
+
+msgid "Footer credit text"
+msgstr "Footer Credit Text"
+
+msgid "Front Page - Content 1"
+msgstr "Startseite - Content 1"
+
+msgid "Front Page - Content 2"
+msgstr "Startseite - Content 2"
+
+msgid "Front Page - Full Width Bottom"
+msgstr "Startseite - Full Width (unten)"
+
+msgid "Front Page - Full Width Center"
+msgstr "Startseite - Full Width (mittig)"
+
+msgid "Front Page - FullWidth Top"
+msgstr "Startseite - Full Width (oben)"
+
+msgid "Front Page - Sidebar 1"
+msgstr "Startseite - Sidebar 1"
+
+msgid "Front Page - Sidebar 2"
+msgstr "Startseite - Sidebar 2"
+
+msgid "Gravatar image format:"
+msgstr "Gravatar Bild-Format:"
+
+msgid "Header Background Color"
+msgstr "Header Hintergrund Farbe"
+
+msgid "Header Social menu"
+msgstr "Header Social Menü"
+
+msgid "Header Top menu"
+msgstr "Header Top Menü"
+
+msgid "Hide Featured Image on single posts"
+msgstr "Beitragsbilder auf Beitrags-Einzelseite verbergen"
+
+msgid "Hide all light grey border lines of the theme design."
+msgstr "Alle hellgrauen Linien im Theme Design verbergen."
+
+msgid "Hide categories"
+msgstr "Verberge Kategorien"
+
+msgid "Hide excerpt text"
+msgstr "Verberge Exzerpt-Texte"
+
+msgid "Hide number of comments"
+msgstr "Verberge Anzahl der Kommentare"
+
+msgid "Hide post author"
+msgstr "Verberge Beitrags-Autor"
+
+msgid "Hide publish date"
+msgstr "Verberge Datum"
+
+msgid "Hide theme border lines"
+msgstr "hellgraue Linien verbergen"
+
+msgid "Images"
+msgstr "Bilder"
+
+msgid ""
+"It looks like nothing was found at this location. Maybe try another search "
+"term?"
+msgstr ""
+"Es scheint, als kann an dieser Stelle nichts gefunden werden. Vielleicht "
+"hilft die Suche mit einem anderen Suchbegriff?"
+
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Deine Suche hat kein Ergebnis erzielt. Vielleicht hilft eine neue "
+"Sucheingabe."
+
+msgid "Landscape"
+msgstr "Querformat"
+
+msgid "Leave a comment"
+msgstr "Schreibe einen Kommentar"
+
+msgid "Lightbox button text"
+msgstr "Lightbox Button Text"
+
+msgid "Lightbox close text"
+msgstr "Lightbox Schliessen Text"
+
+msgid "Link Color"
+msgstr "Link Farbe"
+
+msgid "Login / Register"
+msgstr "Login / Anmelden"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+msgid "Next Image"
+msgstr "Nächstes Bild"
+
+msgid "No Thanks"
+msgstr "Nein Danke"
+
+msgid "Nothing Found"
+msgstr "Keine Einträge gefunden"
+
+msgid "Number of Posts (max 10):"
+msgstr "Anzahl der Beiträge (max 10):"
+
+msgid "Number of Posts:"
+msgstr "Anzahl der Beiträge:"
+
+msgid "Number of authors to show:"
+msgstr "Anzahl der Autoren:"
+
+msgid "Number of posts:"
+msgstr "Anzahl der Beiträge"
+
+msgid "Numbered Recent Posts Widget Background Color"
+msgstr "Nummerierte Neueste Artikel Widget Hintergrund Farbe"
+
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Diese Seite konnte nicht gefunden werden."
+
+msgid "Open"
+msgstr "Öffnen"
+
+msgid "Order by:"
+msgstr "Sortiere nach:"
+
+msgid "Order posts by:"
+msgstr "Sortiere Beiträge nach:"
+
+msgid "Pages:"
+msgstr "Seiten:"
+
+msgid "Permalink to %s"
+msgstr "Permalink zu %s"
+
+msgid "Pingback:"
+msgstr "Pingback: "
+
+msgid "Portrait"
+msgstr "Hochformat"
+
+msgid "Post Layout:"
+msgstr "Beitrags-Layout:"
+
+msgid "Previous Image"
+msgstr "Vorheriges Bild"
+
+msgid "Primary menu"
+msgstr "Haupt Menü"
+
+msgid "Quote Author (optional):"
+msgstr "Zitat Autor (optional):"
+
+msgid "Quote Text:"
+msgstr "Zitat Text:"
+
+msgid "Quote Widget Background Color"
+msgstr "Zitat Widget Hintergrund Farbe"
+
+msgid "Read More"
+msgstr "Weiterlesen"
+
+msgid "Read More links on Front page"
+msgstr "Weiterlesen-Link auf Startseite"
+
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bist du bereit, deinen ersten Artikel zu veröffentlichen? \n"
+"<a href=\"%1$s\">Dann leg los</a>."
+
+msgid "Reply"
+msgstr "Antworten"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für:  %s"
+
+msgid "Show (up to 10) posts in a featured slider."
+msgstr "Zeige (bis zu 10) Beiträge in einem Featured Slider."
+
+msgid "Show a big quote or text slogan."
+msgstr "Zeige ein Zitat oder einen Slogan-Text."
+
+msgid ""
+"Show a number of numbered recent posts (without thumbnails and excerpt text) "
+"that can be filtered by categories."
+msgstr ""
+"Eine Anzahl von nummerierten Beiträgen (ohne Beitragsbilder und Exzerpt-"
+"Texte), die nach Kategorien gefiltert werden können."
+
+msgid ""
+"Show a number of recent posts that can be filtered by categories on the Weta "
+"Front page."
+msgstr ""
+"Eine Anzahl von Beiträgen auf der Weta Startseite, die nach Kategorien "
+"gefiltert werden können."
+
+msgid ""
+"Show a small logo image in the main nav. The image height must be 34 pixels "
+"and the image width not bigger than 100px."
+msgstr ""
+"Zeige ein kleines Logo in der Hauptnavigation. Das Bild muss die Höhe von 34 "
+"Pixel haben und darf nicht breiter sein als 100px."
+
+msgid "Show header search form"
+msgstr "Suche im Header anzeigen"
+
+msgid ""
+"Show only posts with the following category slug (separate multiple category "
+"slugs by comma)"
+msgstr ""
+"Zeige nur Beiträge mit der Kategorie-Titelform (teile mehrere Kategorien mit "
+"Komma):"
+
+msgid "Show only posts with the following tag (separate multiple tags by comma)"
+msgstr "Zeige nur Beiträge mit dem Schlagwort (teile mehrere Schlagwörter mit Komma):"
+
+msgid "Show shop elements in header"
+msgstr "Shop-Elemente im Header anzeigen"
+
+msgid "Site Title Color"
+msgstr "Webseiten Titel Farbe"
+
+msgid "Small logo image"
+msgstr "Kleines Logo-Bild"
+
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Entschuldigung, es scheint kein Suchergebnis für deine Anfrage zu geben. "
+"Bitte versuche es noch einmal mit einem alternativen Suchbegriff."
+
+msgid "Square"
+msgstr "Quadratisch"
+
+msgid "Subscribe Now"
+msgstr "Jetzt anmelden"
+
+msgid "Tagged "
+msgstr "Schlagwörter "
+
+msgid "Theme Options"
+msgstr "Theme Optionen"
+
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s von %2$s."
+
+msgid "Thumbnail Format:"
+msgstr "Beitragsbild Format:"
+
+msgid "Title:"
+msgstr "Titel:"
+
+msgid "Top"
+msgstr "Nach Oben"
+
+msgid "Use Custom Jetpack share buttons"
+msgstr "Nutze Weta-eigene Jetpack Teilen-Buttons"
+
+msgid "View cart"
+msgstr "Warenkorb ansehen"
+
+msgid "Weta: Authors"
+msgstr "Weta: Autoren"
+
+msgid "Weta: Numbered Recent Posts"
+msgstr "Weta: Nummerierte neueste Artikel"
+
+msgid "Weta: Post Slider"
+msgstr "Weta: Beitrags Slider"
+
+msgid "Weta: Quote"
+msgstr "Weta: Zitat"
+
+msgid "Weta: Recent Posts"
+msgstr "Weta: Neueste Artikel"
+
+msgid ""
+"Widget area for the Jetpack Blog Subscriptions widget only. Subscribe widget "
+"will appear with in a lightbox. (The Subscribe Now text can be customized in "
+"the Customizer under Theme Options.)"
+msgstr ""
+"Widgetbereich ausschließlich für das Jetpack Blog Subscription Widget. Das "
+"Subscribe Widget wird in einer Lightbox angezeigt. (Der \"Jetzt anmelden\" "
+"Button can unser Design / Anpassen geändert werden.)"
+
+msgid ""
+"Widgets appear in a left-aligned sidebar area next to the Content 2 widget "
+"area."
+msgstr ""
+"Widgets erscheinen in einer links-bündigen Sidebar neben dem Content 1 "
+"Widgetbereich."
+
+msgid ""
+"Widgets appear in a right-aligned sidebar area next to the Content 1 widget "
+"area."
+msgstr ""
+"Widgets erscheinen in einer rechts-bündigen Sidebar neben dem Content 1 "
+"Widgetbereich."
+
+msgid ""
+"Widgets appear in a right-aligned sidebar on the default blog and on single "
+"posts."
+msgstr ""
+"Widgets erscheinen in einer rechtsbündigen Sidebar im Standard-Blog und auf "
+"Einzel-Artikeln."
+
+msgid "Widgets appear in a single-column widget area on the top of the Front Page."
+msgstr "Widgets erscheinen in einem 1-spaltigen Bereich ganz oben auf der Startseite."
+
+msgid "Widgets appear left of Sidebar 1 and below the Full Width Top widget area."
+msgstr ""
+"Widgets erscheinen links von Sidebar 1 und unterhalb des Full Width (oben) "
+"Widgetbereichs."
+
+msgid ""
+"Widgets appear right to Sidebar 2 and below the Full Width Center widget "
+"area."
+msgstr ""
+"Widgets erscheinen rechts von Sidebar 2 und unterhalb des Full Width "
+"(mittig) Widgetbereichs."
+
+msgid ""
+"Widgets will appear in a single-column widget area at the bottom of your "
+"Front Page above the footer."
+msgstr ""
+"Widgets erscheinen in einem 1-spaltigen Widgetbereich unten auf der "
+"Startseite und oberhalb des Footers."
+
+msgid ""
+"Widgets will appear in a single-column widget area below the Content 1 and "
+"Sidebar 1 widget areas."
+msgstr ""
+"Widgets erscheinen in einem 1-spaltigen Widgetbereich unterhalb von Content "
+"1 und Sidebar 1."
+
+msgid "Widgets will appear in the 1. widget area of the 5-column footer."
+msgstr "Widgets erscheinen im ersten Widgetbereich des fünfspaltigen Footers."
+
+msgid "Widgets will appear in the 2. widget area of the 5-column footer."
+msgstr "Widgets erscheinen im zweiten Widgetbereich des fünfspaltigen Footers."
+
+msgid "Widgets will appear in the 3. widget area of the 5-column footer."
+msgstr "Widgets erscheinen im dritten Widgetbereich des fünfspaltigen Footers."
+
+msgid "Widgets will appear in the 4. widget area of the 5-column footer."
+msgstr "Widgets erscheinen im vierten Widgetbereich des fünfspaltigen Footers."
+
+msgid "Widgets will appear in the 5. widget area of the 5-column footer."
+msgstr "Widgets erscheinen im fünften Widgetbereich des fünfspaltigen Footers."
+
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar befindet sich in Moderation."
+
+msgid "by <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+msgstr "von <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+
+msgid "circle"
+msgstr "kreis"
+
+msgid "comment 1"
+msgstr "Kommentare 1"
+
+msgid "comments %"
+msgstr "Kommentare %"
+
+msgid "default (no cropping)"
+msgstr "standard (keinen Beschnitt)"
+
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr "Suche&hellip;"
+
+msgid "publish date (newest first)"
+msgstr "Datum der Veröffentlichung (neueste zuerst)"
+
+msgid "random"
+msgstr "zufällig"
+
+msgid "square"
+msgstr "quadrat"
+
+msgctxt "submit button"
+msgid "Search"
+msgstr "Suche"
